@@ -26,15 +26,15 @@
             font-weight: bold;
         }
         .breakfast {
-            background: url('https://i.pinimg.com/originals/36/88/4b/36884b768e96a418f33c1a3966b5d0da.jpg') no-repeat center;
+            background: url('https://github.com/Aidenrtz/Menu-Design/blob/main/Images/breakfast%20menu.jpg?raw=true') no-repeat center;
             background-size: cover;
         }
         .lunch {
-            background: url('https://i.pinimg.com/originals/dc/42/f6/dc42f6b74e3c3a8828729b8010c46a4e.jpg') no-repeat center;
+            background: url('https://github.com/Aidenrtz/Menu-Design/blob/main/Images/lunch%20menu.jpg?raw=true') no-repeat center;
             background-size: cover;
         }
         .dinner {
-            background: url('https://i.pinimg.com/originals/13/21/65/132165616e8fdcbcc12ae9953270a4f3.jpg') no-repeat center;
+            background: url('https://github.com/Aidenrtz/Menu-Design/blob/main/Images/dinner%20menu.jpg?raw=true') no-repeat center;
             background-size: cover;
         }
         ul {
@@ -79,3 +79,4 @@
     </div>
 </body>
 </html>
+
