@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -25,17 +26,21 @@
             font-weight: bold;
         }
         .breakfast {
-            background: url('https://github.com/Aidenrtz/Menu-Design/blob/main/Images/breakfast%20menu.jpg?raw=true') no-repeat center;
+            background: url('https://github.com/Aidenrtz/Menu-Design/blob/main/Images/breakfast%20menu.jpg?raw=true') no-repeat center center;
             background-size: cover;
-            color: #fdf5b5; /* pastel yellow text */
+        }
+        .breakfast ul li {
+            color: #fdf5b5; /* pastel yellow text for items */
         }
         .lunch {
-            background: url('https://github.com/Aidenrtz/Menu-Design/blob/main/Images/lunch%20menu.jpg?raw=true') no-repeat center;
+            background: url('https://github.com/Aidenrtz/Menu-Design/blob/main/Images/lunch%20menu.jpg?raw=true') no-repeat center center;
             background-size: cover;
-            color: #004d00; /* dark green text */
+        }
+        .lunch ul li {
+            color: #004d00; /* dark green text for items */
         }
         .dinner {
-            background: url('https://github.com/Aidenrtz/Menu-Design/blob/main/Images/dinner%20menu.jpg?raw=true') no-repeat center;
+            background: url('https://github.com/Aidenrtz/Menu-Design/blob/main/Images/dinner%20menu.jpg?raw=true') no-repeat center center;
             background-size: cover;
         }
         ul {
@@ -79,4 +84,3 @@
         </ul>
     </div>
 </body>
-</html>
