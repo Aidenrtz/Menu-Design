@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -28,10 +27,12 @@
         .breakfast {
             background: url('https://github.com/Aidenrtz/Menu-Design/blob/main/Images/breakfast%20menu.jpg?raw=true') no-repeat center;
             background-size: cover;
+            color: #fdf5b5; /* pastel yellow text */
         }
         .lunch {
             background: url('https://github.com/Aidenrtz/Menu-Design/blob/main/Images/lunch%20menu.jpg?raw=true') no-repeat center;
             background-size: cover;
+            color: #004d00; /* dark green text */
         }
         .dinner {
             background: url('https://github.com/Aidenrtz/Menu-Design/blob/main/Images/dinner%20menu.jpg?raw=true') no-repeat center;
@@ -79,5 +80,3 @@
     </div>
 </body>
 </html>
-
-
